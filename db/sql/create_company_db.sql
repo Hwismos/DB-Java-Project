@@ -2,7 +2,7 @@
 
 -- use company;
 
--- show tables
+show tables
 
 -- desc department;
 -- desc dependent;
